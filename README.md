@@ -1,2 +1,3 @@
-# beckcare
-clinic_appointment and booking
+admin login:
+username: admin 
+password: Test@123
